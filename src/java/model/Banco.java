@@ -26,3 +26,14 @@ public class Banco {
 
 } 
 
+/*
+create table Pessoa(
+    codigo serial primary key,
+    nome varchar(50),
+    datanasc date,
+    email varchar(50),
+    usuario varchar(10),
+    senha varchar(20),
+    tipo varchar(15)
+)
+*/
